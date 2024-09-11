@@ -1,0 +1,37 @@
+{
+    "id_vendes": id_1,
+    "venedor": "Pere",
+    "data": "11-6-2012 17:05:22",
+    "ulleres": {
+        "marca": "Casimiro",
+        "grad_dreta": 2.1,
+        "grad_esq": 2.6,
+        "montura": "pasta",
+        "color_montura": "blau",
+        "color_vidre_dret": "groc",
+        "color_vidre_esquerre": "verd",
+        "preu": 248,
+        "proveïdor": {
+            "nom": "Casimiro",
+            "adreça": {
+                "carrer": "Calle del Ciego",
+                "número": 29,
+                "pis": 3,
+                "porta": "A",
+                "ciutat": "Vilafranca",
+                "codi postal": "08720",
+                "país": "España"
+            },
+            "telèfon": "888888888",
+            "fax": "777777777",
+            "nif": "B789123456"
+        }
+    },
+    "clients": [
+        { "id_client": id_cl1 }
+        { "id_client": id_cl2 }
+        { "id_client": id_cl3 }
+    ]
+
+
+}

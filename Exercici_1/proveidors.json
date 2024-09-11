@@ -1,0 +1,16 @@
+{
+    "id": id_prov_1,
+    "nom": "Casimiro",
+    "adreça": {
+        "carrer": "Calle del Ciego",
+        "número": 29,
+        "pis": 3,
+        "porta": "A",
+        "ciutat": "Vilafranca",
+        "codi postal": "08720",
+        "país": "España"
+    },
+    "telèfon": "888888888",
+    "fax": "777777777",
+    "nif": "B789123456"
+}

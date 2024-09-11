@@ -1,0 +1,25 @@
+{
+    "id": id_cli_1,
+    "nom": "Joan",
+    "cognom": "Ticuat",
+    "adreça": "Anticuari, 999 - Figueres",
+    "telèfon": "99999999",
+    "email": "joanticuat@passat.cat",
+    "data_registre": "23-5-2009",
+    "vendes": {
+        "ulleres": {
+            "marca": "Casimiro",
+            "grad_dreta": 2.1,
+            "grad_esq": 2.6,
+            "montura": "pasta",
+            "color_montura": "blau",
+            "color_vidre_dret": "groc",
+            "color_vidre_esquerre": "verd",
+            "preu": 248,
+            "proveïdor": id_prov_1,
+        },
+        "venedor": "Pere",
+        "data": "11-6-2012 17:05:22",
+    },
+    "client_amic": id_cli_4
+}

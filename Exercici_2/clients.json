@@ -1,0 +1,10 @@
+ {
+    "id": id_cli_1,
+    "nom": "Joan",
+    "cognom": "Ticuat",
+    "adreça": "Anticuari, 999 - Figueres",
+    "telèfon": "99999999",
+    "email": "joanticuat@passat.cat",
+    "data_registre": "23-5-2009",
+    "client_amic": id_cli_4
+ }
