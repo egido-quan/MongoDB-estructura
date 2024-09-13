@@ -7,8 +7,8 @@
     "email": "joanticuat@passat.cat",
     "data_registre": "23-5-2009",
     "vendes": {
-        "ulleres": {
-            "marca": "Casimiro",
+        "ulleres": [{
+            "marca": "Tchin-Luz",
             "grad_dreta": 2.1,
             "grad_esq": 2.6,
             "montura": "pasta",
@@ -18,6 +18,17 @@
             "preu": 248,
             "proveïdor": id_prov_1,
         },
+        {
+            "marca": "Tchin-Luz",
+            "grad_dreta": 2.1,
+            "grad_esq": 2.6,
+            "montura": "flotant",
+            "color_montura": "verd",
+            "color_vidre_dret": "blau",
+            "color_vidre_esquerre": "verd",
+            "preu": 1,
+            "proveïdor": id_prov_1,
+        }],
         "venedor": "Pere",
         "data": "11-6-2012 17:05:22",
     },
